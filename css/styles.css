@@ -469,6 +469,7 @@ input::placeholder {
 }
 .send {
   fill: #fff;
+  margin-left: 16px;
 }
 .backdrop {
   position: fixed;
