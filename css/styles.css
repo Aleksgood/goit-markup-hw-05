@@ -616,7 +616,9 @@ input::placeholder {
 .textarea-modal:focus {
   border-color: #4d5ae5;
 }
-
+.checkbox-field {
+  margin-bottom: 24px;
+}
 .check-label {
   font-weight: 400;
   font-size: 12px;
