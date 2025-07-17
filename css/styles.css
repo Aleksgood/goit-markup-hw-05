@@ -456,7 +456,7 @@ input::placeholder {
   gap: 16px;
   border-radius: 4px;
   padding: 8px 24px;
-  width: 165px;
+  min-width: 165px;
   height: 40px;
   background-color: #4d5ae5;
   font-weight: 500;
@@ -466,6 +466,7 @@ input::placeholder {
   text-align: center;
   color: #fff;
   cursor: pointer;
+  border: none;
 }
 .send {
   fill: #fff;
